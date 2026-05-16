@@ -8,7 +8,7 @@ Entrega Intermediária - BootCamp I
 Olá! Bem-vindo ao repositório do meu projeto desenvolvido para a entrega intermediária do BootCamp. Este espaço foi estruturado para demonstrar a organização, versionamento e o progresso do meu trabalho em Ciência de Dados e Machine Learning.
 
 Link Principal do Projeto
-**[Clique aqui para acessar o Portal deste projeto](https://fernandahellendiasantos-bit.github.io/GitHub-Page/projeto_bootcamp/docs/index.html)**
+ **[Clique aqui para acessar o Portal deste projeto](https://fernandahellendiasantos-bit.github.io/GitHub-Page/projeto_bootcamp/docs/index.html)**
 
 
 Estrutura do Repositório
